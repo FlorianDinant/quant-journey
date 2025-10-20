@@ -1,6 +1,6 @@
 # Quant Journey 🚀
 
-A personal journey to master **Quantitative Research & Trading** — building the mindset, math intuition, and coding rigor required by top firms (e.g. Jane Street, Two Sigma, Citadel).
+A personal journey to master **Quantitative Research & Trading** — building the mindset, math intuition, and coding rigor required by top firms.
 
 ## 🎯 Objectives
 
