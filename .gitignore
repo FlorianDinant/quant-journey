@@ -3,8 +3,27 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-# C extensions
+# OCaml / OPAM
+*.cm[ioxa]
+*.cmi
+*.cmo
+*.cma
+*.cmxa
+*.cmxs
+*.o
+*.a
 *.so
+*.annot
+_build/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
 
 # Distribution / packaging
 .Python
